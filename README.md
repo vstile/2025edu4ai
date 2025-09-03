@@ -34,5 +34,13 @@ author    = {Benelli, Fabrizio and Kellaçi, Erdet and Maciariello, Franco and S
   publisher = {CEUR-WS.org},
   note      = {To appear}
   }
+```
+
+### License
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).  
+Copyright © 2025 Fabrizio Benelli, Franco Maciariello, Vittorio Stile
+
+You may use, adapt, and share this work for non-commercial purposes with proper attribution.  
+See [LICENSE](LICENSE) for details.
   
 
